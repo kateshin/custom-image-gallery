@@ -29,27 +29,13 @@
     <div class="container">
 
       <section class="page-header">
-        <h1 class="project-name">Image Gallery.</h1>
+        <h1 class="project-name">St. Louis Food Blog</h1>
         <h2 class="project-tagline">Lab version</h2>
       </section>
 
       <section class="gallery">
         <ul class="imageGallery">
-          <li><a href="#img1" rel="modal:open"><img src="images/thumbnails/001.jpg" width="600" height="450"></a></li>
-        </ul>
-      </section>
-
-
-      <section class="gallery">
-        <ul class="imageGallery">
-          <li><a href="#img2" rel="modal:open"><img src="images/thumbnails/002.jpg"></a></li>
-        </ul>
-      </section>
-
-
-      <section class="gallery">
-        <ul class="imageGallery">
-          <li><a href="#img3" rel="modal:open"><img src="images/thumbnails/003.jpg"></a></li>
+          <li><a href="#img1" rel="modal:open"><img src="images/originals/smalloriginals/biscuitssmall.jpg" ></a></li>
         </ul>
       </section>
 
